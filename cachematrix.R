@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## This assignment creates a cacheable matrix with makeCacheMatrix function 
+## and then inverse of the this matrix is found using the cacheSolve function.
+## If the inverse already exists the the it is retreived from the cache.
 
 ## This makeCacheMatrix function creates a matrix that can be cached.
 
